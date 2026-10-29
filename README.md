@@ -5,6 +5,9 @@
   <a href="https://myurls.co/humoyun_saydullayev">
     <img src="https://img.shields.io/badge/Portfolio-myurls.co-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~01bcf0b35aa1bb0ee5?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
   <a href="mailto:humoyunsaydullayev7@gmail.com">
     <img src="https://img.shields.io/badge/Email-humoyunsaydullayev7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -46,8 +49,12 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HumoyunSaydullayev&show_icons=true&theme=radical&count_private=true" alt="Humoyun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumoyunSaydullayev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HumoyunSaydullayev&show_icons=true&theme=radical&count_private=true" alt="Humoyun's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HumoyunSaydullayev&layout=compact&theme=radical&hide=css,blade,scss,html" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HumoyunSaydullayev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
